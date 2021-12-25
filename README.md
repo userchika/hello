@@ -1,2 +1,2 @@
 # hello
-hello-chika.netlify.app
+https://hello-chika.netlify.app
